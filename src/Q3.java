@@ -74,7 +74,6 @@ public class Q3 {
         ArrayList<int[]> resultsL=new ArrayList<>();
         ArrayList<Integer> resultsMatches=new ArrayList<>();
 
-        // ArrayList<int[]> resultsR=new ArrayList<>();
 
         while (r>0){
             pairL=new int[graph.m+1];
